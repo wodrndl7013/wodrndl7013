@@ -17,7 +17,7 @@
 ---
 
 ## 📂 Projects
-- [Inventory Management System](https://github.com/wodrndl7013/inventory-system)  
+- [Inventory Management System](https://github.com/wodrndl7013/inventory-management-system)  
   → Integrated with Naver Smart Store API, built with Spring Boot, deployed on AWS EC2
 
 - [Board Service](https://github.com/wodrndl7013/board-service)  
