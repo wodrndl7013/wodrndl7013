@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaesoon (Backend Developer)
+# 👋 Hi, I'm Jaeuk (Backend Developer)
 
 - 🇰🇷 Java & Spring Boot Backend Developer  
 - ✈️ 6 years of experience as an Aircraft Maintenance Sergeant in the Air Force, now transitioning into a developer  
