@@ -24,7 +24,7 @@
   → Basic CRUD functionality, JWT authentication, MySQL integration
 
 - [Game Projects](https://github.com/wodrndl7013/game-projects)  
-  → Unity-based (Angry Birds clone, Snake-like, Tower Defense)
+  → Unity-based (Angry Birds clone, vamsur-like, Tower Defense, 3-matchpuzzle)
 
 ---
 
